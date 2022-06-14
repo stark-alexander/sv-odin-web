@@ -1,7 +1,7 @@
 # SV Odin Web
 
-This project includes the implementation of the website of the sports club [SV Odin](https://www.sv-odin.de/).
+This project includes the source code of the sports club [SV Odin](https://www.sv-odin.de/) website.
 
-CMS was realized with [Sanity.io](https://www.sanity.io/),
-webpage with [Next.js](https://nextjs.org/) and
-[Vercel](https://vercel.com/) is used to deploy and host the project.
+The CMS was realized with [Sanity.io](https://www.sanity.io/),
+the website with [Next.js](https://nextjs.org/) and
+[Vercel](https://vercel.com/) is used for deployment and hosting of the project.
