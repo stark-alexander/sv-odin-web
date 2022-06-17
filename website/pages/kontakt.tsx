@@ -26,11 +26,11 @@ export default function ContactPage(props: any) {
     <div className="max-w-4xl mx-auto px-4 w-full flex-1">
       <div className="grid grid-cols-1 gap-6">
         <div>
-          <H2>Geschäftsführender Vorstand</H2>
+          <H2>Verwaltung</H2>
           <Persons data={executive} />
         </div>
         <div>
-          <H2>Enger Vorstand</H2>
+          <H2>Geschäftsführender Vorstand</H2>
           <Persons data={close} />
         </div>
         <div>
